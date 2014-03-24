@@ -1,0 +1,8 @@
+def (x) plus (y)
+  return
+end
+
+def append (item) to list
+  print
+end
+
